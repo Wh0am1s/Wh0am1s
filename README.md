@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 <!--
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopotagg&layout=compact)
 -->
